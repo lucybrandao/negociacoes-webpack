@@ -11,7 +11,7 @@ Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido,
 O projeto foi criado com:
 * Javascript
 * HTML5
-* Bootstrap
+* Bootstrap (v3.3.7)
 
 ## Setup
 No terminal do seu projeto, execute o comando (nas pastas `/client` e `/server`):

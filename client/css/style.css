@@ -1,6 +1,6 @@
 body {
-    background-color: #202124;
-    color: #bdc6d4;
+    background-color: #202124 !important;
+    color: #bdc6d4 !important;
 }
 
 h1 {
@@ -10,7 +10,6 @@ h1 {
 input {
     background-color: #373b3e !important;
     color: #a7a7a7 !important;
-    border: solid red 5px;
 }
 
 table {
