@@ -43,7 +43,7 @@ tr:hover { background-color: #2c2c32; }
     color: #eee;
 }
 
-.my-btn:hover {
+.my-btn:hover, .my-btn:active, .my-btn:focus {
     background-color: #00353f;
     color: #eee;
 }
