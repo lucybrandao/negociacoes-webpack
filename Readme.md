@@ -1,4 +1,4 @@
-# Negociações
+# Negociações - Webpack :gift:
 
 ![image](https://user-images.githubusercontent.com/39086256/187966305-77e13405-ae46-41de-884b-2fd39e860a2f.png)
 
