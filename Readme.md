@@ -16,22 +16,40 @@ O projeto foi criado com:
 ## Setup
 No terminal do seu projeto, execute o comando (nas pastas `/client` e `/server`):
 
-`npm install`
+```shell
+$ npm install
+```
+
+Dentro da pasta `/client` executar o comando (para criar a pasta `/dist`):
+
+```shell
+$ npm run build-prod
+```
+
+Depois, nas pastas `/client` e `/server`, executar o comando (para subir os servidores node):
+
+```shell
+$ npm start
+```
+
+O projeto ficará aberto na porta 3000.
+
+http://localhost:3000/
+
+#### Extra:
 
 Dentro da pasta `/client` executar o comando (para rodar o compilador babel em tempo real):
 
-`npm run watch`
-
-Depois, executar dentro da pasta `/server` o comando (para subir o servidor node):
-
-`npm start`
-
-O projeto ficará aberto na porta 3000:
-
-http://localhost:3000/
+```shell
+$ npm run watch
+```
 
 ## Fontes
 - https://cursos.alura.com.br/course/webpack/task/30472
 
 ver também o projeto base:
 - https://github.com/lucybrandao/negociacoes
+
+#
+![image](https://user-images.githubusercontent.com/39086256/188159409-ae655b69-b8d2-424e-860e-d83b905e3224.png)
+
