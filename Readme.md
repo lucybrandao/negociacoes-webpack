@@ -7,6 +7,10 @@ Neste projeto para estudo de javascript foi-se criado um cadastro de negociaçõ
 
 Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido, mas é o suficiente para aplicarmos novos recursos da linguagem JavaScript, ou ECMAScript 2015 (ES6), tecnicamente falando. Além disso, organizaremos nosso código no modelo MVC (M**odel-View-C*ontroller), aplicaremos padrões de projeto, programaremos assincronamente com *promises, renderizaremos templates e trabalharemos com proxies, entre outras coisas.
 
+#### Ver também:
+- [lucybrandao / negociacoes](https://github.com/lucybrandao/negociacoes)
+- [lucybrandao / negociacoes-typescript](https://github.com/lucybrandao/negociacoes-typescript)
+
 ## Tecnologias
 O projeto foi criado com:
 * Javascript
@@ -45,11 +49,4 @@ $ npm run watch
 ```
 
 ## Fontes
-- https://cursos.alura.com.br/course/webpack/task/30472
-
-ver também o projeto base:
-- https://github.com/lucybrandao/negociacoes
-
-#
-![image](https://user-images.githubusercontent.com/39086256/188159409-ae655b69-b8d2-424e-860e-d83b905e3224.png)
-
+- [Alura / Webpack: Manipulando módulos na sua webapp](https://cursos.alura.com.br/course/webpack/task/30472)
